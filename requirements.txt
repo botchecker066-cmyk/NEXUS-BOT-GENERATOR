@@ -1,6 +1,7 @@
 python-telegram-bot==20.3
-requests
+supabase==2.4.0
+requests==2.31.0
+Flask==3.0.2
 PyGithub
 aiofiles
 python-dotenv
-flask
