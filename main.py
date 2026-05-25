@@ -44,7 +44,7 @@ FOLDERS = {
 for folder in FOLDERS.values():
     os.makedirs(folder, exist_ok=True)
 
-ADMIN_ID = 6538213760  # Palitan mo ito ng iyong Admin ID kung iba
+ADMIN_ID = 7201369115  # Palitan mo ito ng iyong Admin ID kung iba
 BOT_NAME = "NEXUS VIP BOT GENERATOR"
 VERSION = "2.0"
 MAX_GENERATE = 100
